@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Skyfiir78/myTrello#readme",
   "description": "",
   "dependencies": {
+    "antd": "^4.8.0",
+    "mobx": "^6.0.3",
     "next": "^10.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"

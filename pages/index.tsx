@@ -1,4 +1,11 @@
-function HomePage() {
-  return <div>Welcome to Next.js!</div>
+import React from "react"
+
+class App extends React.Component {
+  render(){
+    return(
+      <div>
+      </div>
+    )
+  }
 }
-export default HomePage
+export default App
